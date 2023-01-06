@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yabetancourt
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Vaadin and Spring Boot
+- 📫 How to reach me yadierbetanc@gmail.com
 
 <!---
 yabetancourt/yabetancourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
