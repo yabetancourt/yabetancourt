@@ -1,6 +1,6 @@
 🌟 Welcome to Yadier's GitHub! 🌟
 
-👋 Hi there! I'm Yadier Betancourt, a Computer Science student who's passionate about programming, mathematics, and all things tech. I'm on a mission to learn, grow, and make a positive impact in the world of software development.
+👋 Hi there! I'm Yadier Betancourt, a Java Backend Developer passionate about programming, mathematics, and all things tech. I'm on a mission to learn, grow, and make a positive impact in the world of software development.
 
 [![yabetancourt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabetancourt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabetancourt&size_weight=0.5&count_weight=0.5)
 
 🌱 What I'm Learning:
-I'm currently diving deeper into Java, Vaadin, and Spring Boot to expand my web development skills. I'm also exploring new technologies and best practices to stay up-to-date in this ever-evolving field.
+I'm currently diving deeper into Java and Spring Boot to expand my web development skills. I'm also exploring new technologies and best practices to stay up-to-date in this ever-evolving field.
 
 👥 Let's Connect!
 I love meeting new people, sharing knowledge, and collaborating on exciting projects. If you're interested in connecting or have any questions, feel free to reach out to me at yadierbetanc@gmail.com.
