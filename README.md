@@ -1,30 +1,35 @@
-🌟 Welcome to Yadier's GitHub! 🌟
+# 👋 I'm Yadier Betancourt
+### Java Developer | AI Multi-Agent Systems Architect | Technical Writer @ Baeldung
 
-👋 Hi there! I'm Yadier Betancourt, a Java Backend Developer passionate about programming, mathematics, and all things tech. I'm on a mission to learn, grow, and make a positive impact in the world of software development.
+I specialize in building high-scale distributed systems and autonomous intelligence. My expertise lies at the intersection of **Spring Boot Microservices**, **Google Cloud Platform (GCP)**, and advanced **Multi-Agent Systems (MAS)** using the **Agent Development Kit (ADK)**.
+
+### 🌟 Professional Highlights
+
+* **Technical Author at [Baeldung](https://www.baeldung.com/author/yadierbetancourt):** I contribute deep-dive technical articles on Java and Spring, helping thousands of developers master complex backend concepts.
+* **AI Agent Architect:** Expert in designing and deploying Multi-Agent Systems using **ADK**, focusing on autonomous task execution and intelligent orchestration.
+* **Cloud & DevOps:** Proficient in architecting and managing cloud-native environments on **Google Cloud Platform (GCP)**.
+
+### 🛠️ Core Expertise
+
+* **Backend Ecosystem:** Advanced Microservices architecture with **Spring Boot**, Spring Security, and Spring Cloud.
+* **AI & Agents:** Building complex, collaborative AI environments using **Agent Development Kit (ADK)** and LLM integration.
+* **Cloud Infrastructure:** Deploying and scaling applications on **GCP** (Cloud Run, Pub/Sub, Cloud SQL, Vertex).
+* **Technical Communication:** Distilling complex engineering challenges into clear, actionable documentation and professional tutorials.
+
+### 📊 GitHub Statistics
 
 [![yabetancourt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabetancourt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-🚀 My Tech Stack & Interests:
-- 🌟 Java: My go-to programming language for creating powerful and efficient applications.
-- 🌐 Vaadin & Spring Boot: Exploring the world of web development with these amazing frameworks.
-- 🗃️ PostgreSQL: Managing databases and ensuring data integrity.
-- 🔢 Mathematics: Applying problem-solving skills to tackle complex challenges.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabetancourt&size_weight=0.5&count_weight=0.5)
 
-🌱 What I'm Learning:
-I'm currently diving deeper into Java and Spring Boot to expand my web development skills. I'm also exploring new technologies and best practices to stay up-to-date in this ever-evolving field.
+### 📫 Let's Connect
 
-👥 Let's Connect!
-I love meeting new people, sharing knowledge, and collaborating on exciting projects. If you're interested in connecting or have any questions, feel free to reach out to me at yadierbetanc@gmail.com.
+I'm interested in projects involving autonomous AI agents, cloud-native Java architecture, and technical consulting.
 
-🔭 My Projects:
-Take a look at my repositories to see some of the projects I've been working on. I'm always open to feedback and suggestions for improvement!
+* **LinkedIn:** [linkedin.com/in/yadierbetancourt](https://linkedin.com/in/yabetancourt)
+* **Writing:** [Baeldung Profile](https://www.baeldung.com/author/yadierbetancourt)
 
-📚 Continuous Learning:
-As a software engineer, I believe in the power of continuous learning and self-improvement. I'm always eager to learn new skills, programming languages, and best practices to stay ahead of the curve.
-
-🌟 Let's build something amazing together! 🌟
+---
+*“Architecting resilient systems and intelligent agents for the next generation of software.”*
 
 <!---
 yabetancourt/yabetancourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
